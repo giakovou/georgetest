@@ -43,7 +43,7 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-	// george test
+	// george test 2
 /**
 	The format of images that may be loaded (force_channels).
 	SOIL_LOAD_AUTO leaves the image in whatever format it was found.
